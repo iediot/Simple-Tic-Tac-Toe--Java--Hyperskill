@@ -1,7 +1,7 @@
 Finalised the project, and should probably add a description for the fifth and final version of the code, so here it is:
 The code is a simple 2 player Tic Tac Toe, it was very simple to do, the code should be very readable as it was done very
 easily and in a clean way. A big part of the code was reused from previous stages, as the tasks were very similar. 
-This project is a "Hard" one on Hyperskill, the site where it originates from.
+This project is a "Medium" one on Hyperskill, the site where it originates from.
 A simple, clean and fun project made in a very short amount of time.
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
